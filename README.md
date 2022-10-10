@@ -1,6 +1,6 @@
 ### Bem-vindo(a), Sou o Caio Ícaro  👋
 
-- 🌱 Aprendendo Javascript, HTML e CSS
+- 🌱 Aprendendo Python
 
 <div>
 <a href="https://github.com/CaioIcaro10">
