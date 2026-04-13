@@ -1,6 +1,6 @@
 ### Bem-vindo(a), Sou o Caio Ícaro  👋
 
-- 🌱 Aprendendo CyberSecurity
+- 🌱 Cyber Security Analyst
 
 <div>
 <a href="https://github.com/CaioIcaro10">
